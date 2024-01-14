@@ -1,0 +1,1 @@
+<?php echo str_ireplace("http://localhost/ht/pictures/", "", "http://localhost/ht/pictures/1608750914512.PNG"); ?>
